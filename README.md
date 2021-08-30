@@ -1,4 +1,4 @@
-# pet-projects
+# pet-projects-1
 
 Распознавание негативных комментариев на русском языке
 https://cups.mail.ru/ru/rounds/594
